@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueryIMDB",
+            "request": "launch",
+            "mainClass": "java_practice.QueryIMDB",
+            "projectName": "java-api-practice_ebb8bb3"
+        }
+    ]
+}
